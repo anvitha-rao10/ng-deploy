@@ -1,0 +1,12 @@
+.menu-box {
+    background-color: #a0da92; 
+    color: #000000; 
+    padding: 20px; 
+    width: 25vw;
+    box-sizing: border-box; 
+    border: 1px solid #000000; 
+    border-radius: 5px; 
+    margin-top: 20px; 
+    text-align: center;
+    font-family: 'Segoe UI';
+}

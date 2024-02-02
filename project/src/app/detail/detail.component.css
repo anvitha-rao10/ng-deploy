@@ -1,0 +1,15 @@
+.detail-box {
+    background-color: pink;
+    color: #333;
+    padding: 0.02px;
+    width: 73vw;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 14px; 
+    font-weight: normal !important;
+    font-family: 'Segoe UI';
+}
